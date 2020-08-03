@@ -1,8 +1,8 @@
 ### Hi there, I'm Akhil 👋
 
 ## I'm a self taught Developer from India.
-- 🌱 I’m currently learning VueJS
-- 🥅 Learn how to use a JavaScript Framework
+- 🌱 Learning: I’m currently learning VueJS
+- 🥅 2020 Goals: Learn how to use a JavaScript Framework
 - ⚡ Fun fact: I love to make discord bots using python
 - <img width="20px" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"/> Discord: Akhil#1608
 
