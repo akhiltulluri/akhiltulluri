@@ -30,7 +30,8 @@
 
 ---
 
-<img align="left" alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true" />
+<img align="left" alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialakhil&hide_border=true&layout=compact" alt="Most Used Languages" />
 
 [twitter]: https://twitter.com/Akhil2149
 [efuse]: https://efuse.gg/u/Akhil
