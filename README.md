@@ -7,7 +7,7 @@
 - 💬 Discord: `Akhil#1608`
 
 ### Socials:
-[<img align="left" alt="Akhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Akhil | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" />][twitter]
 [<img align="left" width="22px" src="https://efuse.s3.amazonaws.com/uploads/work-experience/1577819786946-eFuse%20Logo%20-%20Dark.png" alt="Akhil | eFuse"></img>][efuse]
 <br />
 
