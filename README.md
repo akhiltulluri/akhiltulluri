@@ -31,29 +31,7 @@
 ---
 
 <img align="left" alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialakhil&hide_border=true&layout=compact" alt="Most Used Languages" />
-
-
-### Pinned Repos
-<a href="https://github.com/officialakhil/modmail-plugins"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=modmail-plugins">
-</a>
-<a href="https://github.com/officialakhil/forpy"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=forpy">
-</a>
-<a href="https://github.com/officialakhil/forpy-docs"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=forpy-docs">
-</a>
-<a href="https://github.com/officialakhil/travelly-website"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=travelly-website">
-</a>
-<a href="https://github.com/officialakhil/photography-website"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=photography-website">
-</a>
-<a href="https://github.com/officialakhil/portfolio"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=portfolio">
-</a>
 
 [twitter]: https://twitter.com/Akhil2149
 [efuse]: https://efuse.gg/u/Akhil
