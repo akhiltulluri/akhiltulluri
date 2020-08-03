@@ -4,7 +4,7 @@
 - 🌱 Learning: I’m currently learning VueJS
 - 🥅 2020 Goals: Learn how to use a JavaScript Framework
 - ⚡ Fun fact: I love to make discord bots using python
-- <img width="20px" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"/> Discord: Akhil#1608
+- 💬 Discord: `Akhil#1608`
 
 ### Socials:
 [<img align="left" alt="Akhil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,7 +31,29 @@
 ---
 
 <img align="left" alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialakhil&hide_border=true&layout=compact" alt="Most Used Languages" />
+
+
+### Pinned Repos
+<a href="https://github.com/officialakhil/modmail-plugins"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=modmail-plugins">
+</a>
+<a href="https://github.com/officialakhil/forpy"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=forpy">
+</a>
+<a href="https://github.com/officialakhil/forpy-docs"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=forpy-docs">
+</a>
+<a href="https://github.com/officialakhil/travelly-website"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=travelly-website">
+</a>
+<a href="https://github.com/officialakhil/photography-website"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=photography-website">
+</a>
+<a href="https://github.com/officialakhil/portfolio"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=officialakhil&repo=portfolio">
+</a>
 
 [twitter]: https://twitter.com/Akhil2149
 [efuse]: https://efuse.gg/u/Akhil
