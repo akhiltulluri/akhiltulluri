@@ -1,7 +1,7 @@
 ### Hi there, I'm Akhil 👋
 
 ## I'm a self taught Developer from India.
-- 🌱 Learning: I’m currently learning VueJS
+- 🌱 Learning: I’m currently learning ReactJS
 - 🥅 2020 Goals: Learn how to use a JavaScript Framework
 - ⚡ Fun fact: I love to make discord bots using python
 - 💬 Discord: `Akhil#1608`
