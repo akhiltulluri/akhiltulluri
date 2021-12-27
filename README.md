@@ -1,33 +1,12 @@
-### Hi there, I'm Akhil 👋
+## Hi there, I'm Akhil 👋
 
-## I'm a self taught Developer from India.
+<img alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_rank=true" />
 
-### Socials:
-[<img align="left" alt="Akhil | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" />][twitter]
-[<img align="left" width="22px" src="https://efuse.s3.amazonaws.com/uploads/work-experience/1577819786946-eFuse%20Logo%20-%20Dark.png" alt="Akhil | eFuse"></img>][efuse]
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br />
-<br />
-
----
-
-<img align="left" alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialakhil&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_rank=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialakhil&hide_border=true&layout=compact" alt="Most Used Languages" />
+## Connect with me  
+[<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;"/>][twitter]
+[<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;"/>][stackoverflow]
+[<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>][linkedin]
 
 [twitter]: https://twitter.com/AkhilCodes
-[efuse]: https://efuse.gg/u/Akhil
+[stackoverflow]: https://stackoverflow.com/users/11895049/akhil
+[linkedin]: https://www.linkedin.com/in/akhilcodes/
