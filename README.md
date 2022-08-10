@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Akhil](https://akhil.codes/)</h1>
+<h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialakhil&label=Profile%20views&color=0e75b6&style=flat" alt="officialakhil" /> </p>
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **akhilesh.tulluri@gmail.com**
+
+- 🌐 Check my website https://akhil.codes/
 
 - ⚡ Fun fact **I think I am funny**
 
